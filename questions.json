@@ -1,0 +1,82 @@
+[
+    {
+        "title": "Why We Are Use <br> Element?",
+        "answer_1": "To Make Test Bold",
+        "answer_2": "To Make Test Italic",
+        "answer_3": "To Make Breakline",
+        "answer_4": "To Make Test Horizontal Line",
+        "right_answer": "To Make Breakline"
+    },
+    {
+        "title": "IS <img> Element Has Attribute href?",
+        "answer_1": "Yes",
+        "answer_2": "No Its For Anchor Tag <a>",
+        "answer_3": "All Elements Has This Attribute",
+        "answer_4": "Answer 1 And 3 Is Right",
+        "right_answer": "No Its For Anchor Tag <a>"
+    },
+    {
+        "title": "How Can We make Element Text Bold?",
+        "answer_1": "Putting It Inside <b> Tag",
+        "answer_2": "Putting It Inside <strong> Tag",
+        "answer_3": "Customizing It With Front-Weight Property In CSS",
+        "answer_4": "All Answers Is Right",
+        "right_answer": "All Answers Is Right"
+    },
+    {
+        "title": "What Is The Right Hierarchy For Creating Part Of Page?",
+        "answer_1": "<h2> The <p> Then <h1> Then <p> Then <h3> Then <p>",
+        "answer_2": "<h4> The <p> Then <h4> Then <p> Then <h3> Then <p>",
+        "answer_3": "<h2> The <p> Then <h1> Then <span> Then <h3> Then <p>",
+        "answer_4": "All Solutions Are Wrong",
+        "right_answer": "All Solutions Are Wrong"
+    },
+    {
+        "title": "How Can We Include External Page Inside Our HTML Page?",
+        "answer_1": "By Using Include in HTML",
+        "answer_2": "By Using Load In HTML",
+        "answer_3": "By Using IFrame Tag",
+        "answer_4": "All Solutions Are Wrong",
+        "right_answer": "By Using IFrame Tag"
+    },
+    {
+        "title": "What Is The Tag That Not Exists in hTML?",
+        "answer_1": "<object>",
+        "answer_2": "<basefont>",
+        "answer_3": "<abbr>",
+        "answer_4": "All Tags Is Exists in HTML",
+        "right_answer": "All Tags Is Exists in HTML"
+    },
+    {
+        "title": "How We Specify Document Type Of HTML5 Page?",
+        "answer_1": "<DOCTYPE html>",
+        "answer_2": "<DOCTYPE html5>",
+        "answer_3": "<!DOCTYPE html5>",
+        "answer_4": "<!DOCTYPE html>",
+        "right_answer": "<!DOCTYPE html>"
+    },
+    {
+        "title": "What IS The Element Thats Not Exists i HTML5 Semantics?",
+        "answer_1": "<article>",
+        "answer_2": "<section>",
+        "answer_3": "<blockquote>",
+        "answer_4": "<aside>",
+        "right_answer": "<blockquote>"
+    },
+    {
+        "title": "In HTML Can We use THis Way To Add Attributes?",
+        "answer_1": "<div class='class-name'>",
+        "answer_2": "<div class=class-name>",
+        "answer_3": "<div class=\"class-name\">",
+        "answer_4": "All Are Right",
+        "right_answer": "All Are Right"
+    },
+    {
+        "title": "Why my use text area?",
+        "answer_1": "to add picture with text",
+        "answer_2": "to write any thing",
+        "answer_3": "to right password",
+        "answer_4": "to write email",
+        "right_answer": "o write any thing"
+    }
+]
